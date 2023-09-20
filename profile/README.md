@@ -16,6 +16,8 @@ Colaboradores internos da empresa de Industria de papel e celulose.
 
 ## 💻  Solução de otimização de corte de bobinas de papel:
 
+Estes projetos foram desenvolvidos com o apoio de uma grande indústria do ramo de papel e celulose, que ajudou os alunos explicando o problema de corte de bobinas típico das indústrias deste ramo. Os dados mencionados nos projetos são fictícios e meramente ilustrativos.
+
 - Grupo 1 - Blade Runners
   - Link do repositório: https://github.com/2023M6T1-Inteli/grupo1_publico
 
