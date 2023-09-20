@@ -1,4 +1,4 @@
-# 🙋‍ 023.1 - Módulo Solução de otimização de corte de bobinas de papel - Turma 1 - Klabin
+# 🙋‍ 023.1 - Módulo Solução de otimização de corte de bobinas de papel - Turma 1 - Industria de papel e celulose
 
 ## 🔍 O problema:
 
@@ -11,7 +11,7 @@ Desenvolver uma solução de otimização no TRIM da máquina para o corte de bo
 
 ## 🧩 O público-alvo:
 
-Colaboradores internos da Klabin.
+Colaboradores internos da empresa de Industria de papel e celulose.
 
 
 ## 💻  Solução de otimização de corte de bobinas de papel:
